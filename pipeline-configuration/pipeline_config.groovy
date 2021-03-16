@@ -1,4 +1,4 @@
-libraries{
-    gradle
+@merge libraries{
+    //gradle
     sonarqube
 }
